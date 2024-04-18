@@ -34,7 +34,7 @@ class Hart:
     bad_address = None
 
     # The non-existent register for access test
-    nonexist_csr = "csr2697"
+    nonexist_csr = "csr2308"
 
     # Number of instruction triggers the hart supports.
     instruction_hardware_breakpoint_count = 0
