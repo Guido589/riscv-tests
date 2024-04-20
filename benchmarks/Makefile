@@ -36,6 +36,7 @@ bmarks = \
 	vec-daxpy \
 	vec-sgemm \
 	vec-strcmp \
+#	iopmp \
 
 #--------------------------------------------------------------------
 # Build rules
